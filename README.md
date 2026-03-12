@@ -1,3 +1,3 @@
 # Ancient wolf genomic project
-Imputation and analysis of ancient wolf genomes
+Snakefile for imputation pipeline of ancient wolf genomes.
 *This project is ongoing and code will be updated*
